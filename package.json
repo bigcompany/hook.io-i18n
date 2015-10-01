@@ -1,0 +1,17 @@
+{
+  "name": "hook.io-i18n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marak Squires <marak.squires@gmail.com>",
+  "license": "MIT",
+  "description": "module which contains hook.io i18n language translations",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bigcompany/hook.io-i18n.git"
+  },
+  "dependencies": {
+  }
+}
