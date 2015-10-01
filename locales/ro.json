@@ -1,54 +1,54 @@
 {
-	"Hello": "Hello",
-	"Hello %s, how are you today?": "Hello %s, how are you today?",
-	"weekend": "weekend",
-	"Hello %s, how are you today? How was your %s.": "Hello %s, how are you today? How was your %s.",
-	"Hi": "Hi",
-	"Howdy": "Howdy",
+	"Hello": "Bună",
+	"Hello %s, how are you today?": "Bună %s, ce mai faci?",
+	"weekend": "week-end",
+	"Hello %s, how are you today? How was your %s.": "Bună %s, ce mai faci? Cum a fost %s ta.",
+	"Hi": "Bună",
+	"Howdy": "Salut",
 	"%s cat": {
-		"one": "%s cat",
-		"other": "%s cats"
+		"one": "%s pisică",
+		"other": "%s pisici"
 	},
 	"cat": {
-		"one": "%s cat",
-		"other": "%s cats"
+		"one": "%s pisică",
+		"other": "%s pisici"
 	},
 	"nested": {
 		"deep": {
 			"plural": {
 				"one": "plural",
-				"other": "plurals"
+				"other": "pluraluri"
 			}
 		}
 	},
 	"There is one monkey in the %%s": {
-		"one": "There is one monkey in the %%s",
-		"other": "There are %d monkeys in the %%s"
+		"one": "Este o maimuță în %%s",
+		"other": "Sunt %d maimuțe în %%s"
 	},
-	"tree": "tree",
+	"tree": "copac",
 	"There is one monkey in the %s": {
-		"one": "There is one monkey in the %s",
-		"other": "There are %d monkeys in the %s"
+		"one": "Este o maimuță în %s",
+		"other": "Sunt %d maimuțe în %s"
 	},
-	"Hello %s": "Hello %s",
-	"Hello {{name}}": "Hello {{name}}",
-	"Hello {{name}}, how was your %s?": "Hello {{name}}, how was your %s?",
+	"Hello %s": "Bună %s",
+	"Hello {{name}}": "Bună {{name}}",
+	"Hello {{name}}, how was your %s?": "Bună {{name}}, cum a fost %s ta?",
 	"format": {
-		"date": "MM/DD/YYYY",
+		"date": "DD/MM/YYYY",
 		"time": "h:mm:ss a"
 	},
 	"greeting": {
-		"formal": "Hello",
-		"informal": "Hi",
+		"formal": "Bună ziua",
+		"informal": "Bună",
 		"placeholder": {
-			"formal": "Hello %s",
-			"informal": "Hi %s",
-			"loud": "greeting.placeholder.loud"
+			"formal": "Bună ziua %s",
+			"informal": "Bună %s",
+			"loud": "Saluuut"
 		}
 	},
 	"nested.deep.plural": {
 		"one": "nested.deep.plural",
 		"other": 1
 	},
-	"Greetings": "Greetings"
+	"Greetings": "Salutări"
 }
