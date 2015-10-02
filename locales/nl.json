@@ -1,0 +1,49 @@
+{
+  "Hello": "Hallo",
+  "Hello %s, how are you today?": "Hallo %s, hoe gaat het vandaag?",
+  "weekend": "weekend",
+  "Hello %s, how are you today? How was your %s.": "Hallo %s, hoe gaat het vandaag? Hoe was je %s.",
+  "Hi": "Hoi",
+  "Howdy": "Hoi",
+  "%s cat": {
+	"one": "%s kat",
+	"other": "%s katten"
+  },
+  "cat": {
+	"one": "%s kat",
+	"other": "%s katten"
+  },
+  "nested": {
+	"deep": {
+	  "plural": {
+		"one": "plural",
+		"other": "plurals"
+	  }
+	}
+  },
+  "There is one monkey in the %%s": {
+	"one": "Er is een aap in het %%s",
+	"other": "Er zijn %d apen in het %%s"
+  },
+  "tree": "boom",
+  "There is one monkey in the %s": {
+	"one": "Er is een aap in het %s",
+	"other": "Er zijn %d apen in het %s"
+  },
+  "Hello %s": "Hallo %s",
+  "Hello {{name}}": "Hallo {{name}}",
+  "Hello {{name}}, how was your %s?": "Hallo {{name}}, hoe was je %s?",
+  "format": {
+	"date": "DD/MM/YYYY",
+	"time": "hh:mm:ss"
+  },
+  "greeting": {
+	"formal": "Hallo",
+	"informal": "Hoi",
+	"placeholder": {
+	  "formal": "Hallo %s",
+	  "informal": "Hoi %s",
+	  "loud": "greeting.placeholder.loud"
+	}
+  }
+}
