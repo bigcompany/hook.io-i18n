@@ -1,0 +1,54 @@
+{
+	"Hello": "Hola",
+	"Hello %s, how are you today?": "¿Hola %s, como estás hoy?",
+	"weekend": "semana",
+	"Hello %s, how are you today? How was your %s.": "¿Hola %s, como estás hoy? ¿Como estuvo tu %s.",
+	"Hi": "Hi",
+	"Howdy": "Hey",
+	"%s cat": {
+		"one": "%s gato",
+		"other": "%s gatos"
+	},
+	"cat": {
+		"one": "%s gato",
+		"other": "%s gatos"
+	},
+	"nested": {
+		"deep": {
+			"plural": {
+				"one": "plural",
+				"other": "plurals"
+			}
+		}
+	},
+	"There is one monkey in the %%s": {
+		"one": "Hay un mono en el %%s",
+		"other": "Hay %d monos en el %%s"
+	},
+	"tree": "arbol",
+	"There is one monkey in the %s": {
+		"one": "Hay un mono en el %s",
+		"other": "Hay %d monos en el %s"
+	},
+	"Hello %s": "Hola %s",
+	"Hello {{name}}": "Hola {{name}}",
+	"Hello {{name}}, how was your %s?": "¿Hola {{name}}, como estuvo tu %s?",
+	"format": {
+		"date": "DD/MM/YYYY",
+		"time": "h:mm:ss a"
+	},
+	"greeting": {
+		"formal": "Hola",
+		"informal": "Hi",
+		"placeholder": {
+			"formal": "Hola %s",
+			"informal": "Hi %s",
+			"loud": "greeting.placeholder.loud"
+		}
+	},
+	"nested.deep.plural": {
+		"one": "nested.deep.plural",
+		"other": 1
+	},
+	"Greetings": "Saludos"
+}
