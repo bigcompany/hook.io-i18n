@@ -1,48 +1,48 @@
 {
-	"Hello": "Hello",
-	"Hello %s, how are you today?": "Hello %s, how are you today?",
-	"weekend": "weekend",
-	"Hello %s, how are you today? How was your %s.": "Hello %s, how are you today? How was your %s.",
-	"Hi": "Hi",
-	"Howdy": "Howdy",
+	"Hello": "Olá",
+	"Hello %s, how are you today?": "Olá %s, como você está hoje?",
+	"weekend": "final de semana",
+	"Hello %s, how are you today? How was your %s.": "Olá %s, como você está hoje? Como foi seu %s.",
+	"Hi": "Oi",
+	"Howdy": "Olá",
 	"%s cat": {
-		"one": "%s cat",
-		"other": "%s cats"
+		"one": "%s gato",
+		"other": "%s gatos"
 	},
 	"cat": {
-		"one": "%s cat",
-		"other": "%s cats"
+		"one": "%s gato",
+		"other": "%s gatos"
 	},
 	"nested": {
 		"deep": {
 			"plural": {
 				"one": "plural",
-				"other": "plurals"
+				"other": "plurais"
 			}
 		}
 	},
 	"There is one monkey in the %%s": {
-		"one": "There is one monkey in the %%s",
-		"other": "There are %d monkeys in the %%s"
+		"one": "Tem um macaco na %%s",
+		"other": "Tem %d macacos na %%s"
 	},
-	"tree": "tree",
+	"tree": "árvore",
 	"There is one monkey in the %s": {
-		"one": "There is one monkey in the %s",
-		"other": "There are %d monkeys in the %s"
+		"one": "Tem um macaco na %s",
+		"other": "Tem %d macacos na %s"
 	},
-	"Hello %s": "Hello %s",
-	"Hello {{name}}": "Hello {{name}}",
-	"Hello {{name}}, how was your %s?": "Hello {{name}}, how was your %s?",
+	"Hello %s": "Olá %s",
+	"Hello {{name}}": "Olá {{name}}",
+	"Hello {{name}}, how was your %s?": "Olá {{name}}, como foi seu %s?",
 	"format": {
-		"date": "MM/DD/YYYY",
+		"date": "MM/DD/AAAA",
 		"time": "h:mm:ss a"
 	},
 	"greeting": {
-		"formal": "Hello",
-		"informal": "Hi",
+		"formal": "Olá",
+		"informal": "Oi",
 		"placeholder": {
-			"formal": "Hello %s",
-			"informal": "Hi %s",
+			"formal": "Olá %s",
+			"informal": "Oi %s",
 			"loud": "greeting.placeholder.loud"
 		}
 	},
@@ -50,5 +50,5 @@
 		"one": "nested.deep.plural",
 		"other": 1
 	},
-	"Greetings": "Greetings"
+	"Greetings": "Saudações"
 }
