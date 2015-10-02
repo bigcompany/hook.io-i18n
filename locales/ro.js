@@ -71,16 +71,13 @@
 	"Hook Source": "Sursă Hook",
 	"Programming Language:": "Limbaj de Programare:",
 	"Warning": "Atenție",
-	"The source code to power the service. Can be provided as a Github Gist or as plain-text.": 
-	"Codul sursă care acționează serviciul. Poate fi introdus ca un Gist Github sau ca text simplu.",
+	"The source code to power the service. Can be provided as a Github Gist or as plain-text.": "Codul sursă care acționează serviciul. Poate fi introdus ca un Gist Github sau ca text simplu.",
 	"Gist Url": "Url Gist",
 	"Click here to create new Github Gist": "Apasă aici pentru a crea un Gist Github nou",
 	"Hooks can be scheduled on a timer": "Hook-urile pot fi programate cu un timer",
-	"All Hooks support the ability to schedule their execution based on a date time pattern.": 
-	"Toate Hook-urile suportă abilitatea de a le programa execuția bazat pe un șablon dată timp",
+	"All Hooks support the ability to schedule their execution based on a date time pattern.": "Toate Hook-urile suportă abilitatea de a le programa execuția bazat pe un șablon dată timp",
 	"We call this date time pattern a Cron.": "Numim acest șablon dată timp un Cron.",
-	"By design, Crons will not pass any data into the Hook. If you need to pass data into the scheduled Hook, you can simply set default data in the Hook or chain two Hooks together to pipe the data.": 
-	"Din design, Crons nu vor pasa nici o informație în Hook. Dacă ai nevoie să pasezi informație intr-un Hook programat, poți să setezi informații implicite în Hook sau să înlănțuiești două Hook-uri pentru a transmite informația.",
+	"By design, Crons will not pass any data into the Hook. If you need to pass data into the scheduled Hook, you can simply set default data in the Hook or chain two Hooks together to pipe the data.": "Din design, Crons nu vor pasa nici o informație în Hook. Dacă ai nevoie să pasezi informație intr-un Hook programat, poți să setezi informații implicite în Hook sau să înlănțuiești două Hook-uri pentru a transmite informația.",
 	"Warning: We currently cannot provide any guarantees about Cron accuracy or reliability. If you require a high reliability timer, please let us know. ": "Atenție: În momentul de față nu putem da nici o garanție pentru acuratețea și fiabilitatea Cron-ului. Dacă ai nevoie de un timed de fiabilitate mare, anunță-ne. ",
 	"Cron Pattern": "Șablon Cron",
 	"Create new Hook": "Crează Hook Nou",
@@ -95,24 +92,23 @@
 	"Resource": "Resursa",
 	"View": "Vizualizare",
 	"Presenter": "Prezentator",
-	"Hey there! We just created a new Gist on Github using your account: here\n      \n      The Gist will now be associated with the Hook service once you've completed this form.\n    ": 
-	"Bună! Am creat un Gist nou pe Github folosind contul tău: aici\n      \n      Gist-ul va fi acum asociat cu serviciul Hook după ce ai completat acest formular.\n    ",
+	"Hey there! We just created a new Gist on Github using your account: here\n      \n      The Gist will now be associated with the Hook service once you've completed this form.\n    ": "Bună! Am creat un Gist nou pe Github folosind contul tău: aici\n      \n      Gist-ul va fi acum asociat cu serviciul Hook după ce ai completat acest formular.\n    ",
 	"here": "aici",
 	"Name": "Nume",
 	"echo": "echo",
-	"Will be part of the url to access the hook. Cannot contain non-url safe characters.": 
-	"Va fi parte din url-ul pentru a accesa hook-ul. Nu poate contine caractere nesigure pentru url-uri",
-	"Optional Regular Expression route path for the service. Route parameters will merge with all query string and form parameters in the service handler's Hook.params scope. Read More": 
-	"Ruta Regular Expression opțională pentru serviciu. Parametri rutei se vor uni cu toate șirurile de caractere și parametri formularului din query în manipulatorul de serviciu al Hook-ulul. domeniu paramentri. Citește mai mult"
+	"Will be part of the url to access the hook. Cannot contain non-url safe characters.": "Va fi parte din url-ul pentru a accesa hook-ul. Nu poate contine caractere nesigure pentru url-uri",
+	"Optional Regular Expression route path for the service. Route parameters will merge with all query string and form parameters in the service handler's Hook.params scope. Read More": "Ruta Regular Expression opțională pentru serviciu. Parametri rutei se vor uni cu toate șirurile de caractere și parametri formularului din query în manipulatorul de serviciu al Hook-ulul. domeniu paramentri. Citește mai mult",
 	"Hook Mode": "Mod Hook",
 	"Development": "Dezvoltare",
 	"Production": "Producție",
 	"Important:": "Important:",
-	"The following URLs will be created to help manage the service.": 
-	"Urmatoarele URL-uri vor fi create pentru ajuta în administrarea serviciului.",
+	"The following URLs will be created to help manage the service.": "Urmatoarele URL-uri vor fi create pentru ajuta în administrarea serviciului.",
 	"Themes are an easy way to customize the output of the Hook.": "Temele sunt o cale ușoară de a personaliza output-ul unui Hook",
-	"If checked, the Hook will execute as a scheduled tasked based on provided Cron pattern.": 
-	"Dacă este bifat, Hook-ul va executa ca o sarcină programată bazat pe șablonul Cron dat",
+	"If checked, the Hook will execute as a scheduled tasked based on provided Cron pattern.": "Dacă este bifat, Hook-ul va executa ca o sarcină programată bazat pe șablonul Cron dat",
 	"Save Hook": "Salvează Hook",
-	"Delete Hook": "Șterge Hook"
+	"Delete Hook": "Șterge Hook",
+	"Drepturi de autor": "Drepturi de autor",
+	"Prețuri": "Prețuri",
+	"Documentație": "Documentație",
+	"Suport": "Suport"
 }
