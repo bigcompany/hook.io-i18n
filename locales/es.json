@@ -1,8 +1,8 @@
 {
 	"Hello": "Hola",
-	"Hello %s, how are you today?": "¿Hola %s, como estás hoy?",
+	"Hello %s, how are you today?": "&iquest;Hola %s, como est&aacute;s hoy?",
 	"weekend": "semana",
-	"Hello %s, how are you today? How was your %s.": "¿Hola %s, como estás hoy? ¿Como estuvo tu %s.",
+	"Hello %s, how are you today? How was your %s.": "&iquest;Hola %s, como est&aacute;s hoy? &iquest;Como estuvo tu %s.",
 	"Hi": "Hi",
 	"Howdy": "Hey",
 	"%s cat": {
@@ -32,7 +32,7 @@
 	},
 	"Hello %s": "Hola %s",
 	"Hello {{name}}": "Hola {{name}}",
-	"Hello {{name}}, how was your %s?": "¿Hola {{name}}, como estuvo tu %s?",
+	"Hello {{name}}, how was your %s?": "Hola {{name}}, como estuvo tu %s?",
 	"format": {
 		"date": "DD/MM/YYYY",
 		"time": "h:mm:ss a"
