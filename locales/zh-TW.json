@@ -38,7 +38,7 @@
 		"time": "點：分：秒 a"
 	},
 	"greeting": {
-		"formal": 你好,
+		"formal": "你好",
 		"informal": "嗨",
 		"placeholder": {
 			"formal": "你好 %s",
