@@ -1,8 +1,8 @@
 {
-	"Hello": "Hello",
-	"Hello %s, how are you today?": "Hello %s, how are you today?",
-	"weekend": "weekend",
-	"Hello %s, how are you today? How was your %s.": "Hello %s, how are you today? How was your %s.",
+	"Hello": "你好",
+	"Hello %s, how are you today?": "哈囉 %s, 今天過得怎麼樣呀?",
+	"weekend": "週末",
+	"Hello %s, how are you today? How was your %s.": "嘿 %s, 今天還順利嗎? %s.",
 	"Hi": "Hi",
 	"Howdy": "Howdy",
 	"%s cat": {
