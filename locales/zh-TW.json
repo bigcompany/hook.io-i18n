@@ -1,0 +1,54 @@
+{
+	"Hello": "你好",
+	"Hello %s, how are you today?": "哈囉 %s, 今天過得怎麼樣呀?",
+	"weekend": "週末",
+	"Hello %s, how are you today? How was your %s.": "哈囉 %s, 今天好嗎? 做什麼了呢 %s.",
+	"Hi": "嗨",
+	"Howdy": "嘿～",
+	"%s cat": {
+		"one": "%s 貓",
+		"other": "%s 貓"
+	},
+	"cat": {
+		"one": "%s 貓",
+		"other": "%s 貓"
+	},
+	"nested": {
+		"deep": {
+			"plural": {
+				"one": "複數",
+				"other": "複數"
+			}
+		}
+	},
+	"There is one monkey in the %%s": {
+		"one": "有一隻猴子在 %%s",
+		"other": "有 %d 隻猴子在 %%s"
+	},
+	"tree": "樹",
+	"There is one monkey in the %s": {
+		"one": "有一隻猴子在 %s",
+		"other": "有 %d 隻猴子在 %s"
+	},
+	"Hello %s": "哈囉 %s",
+	"Hello {{name}}": "哈囉 {{名字}}",
+	"Hello {{name}}, how was your %s?": "哈囉 {{名字}}, 你的 %s 好嗎?",
+	"format": {
+		"date": "月月/日日/年年年年",
+		"time": "點：分：秒 a"
+	},
+	"greeting": {
+		"formal": "你好",
+		"informal": "嗨",
+		"placeholder": {
+			"formal": "你好 %s",
+			"informal": "嗨 %s",
+			"loud": "greeting.placeholder.loud"
+		}
+	},
+	"nested.deep.plural": {
+		"one": "nested.deep.plural",
+		"other": 1
+	},
+	"Greetings": "問候"
+}
